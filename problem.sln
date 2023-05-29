@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP2_109", "problem\problem.vcxproj", "{241236B6-31A5-4D2B-84C2-021372339CDC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solutionMultiWaris", "solutionMultiWaris\solutionMultiWaris.vcxproj", "{C185C6F0-F026-41A9-8F47-1F38FB0A1415}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solveMultiWaris", "solutionMultiWaris\solutionMultiWaris.vcxproj", "{C185C6F0-F026-41A9-8F47-1F38FB0A1415}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polymorphism", "Polymorphism\Polymorphism.vcxproj", "{47F9D138-69BB-4971-938E-3CFFA3B24756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{C185C6F0-F026-41A9-8F47-1F38FB0A1415}.Release|x64.Build.0 = Release|x64
 		{C185C6F0-F026-41A9-8F47-1F38FB0A1415}.Release|x86.ActiveCfg = Release|Win32
 		{C185C6F0-F026-41A9-8F47-1F38FB0A1415}.Release|x86.Build.0 = Release|Win32
+		{47F9D138-69BB-4971-938E-3CFFA3B24756}.Debug|x64.ActiveCfg = Debug|x64
+		{47F9D138-69BB-4971-938E-3CFFA3B24756}.Debug|x64.Build.0 = Debug|x64
+		{47F9D138-69BB-4971-938E-3CFFA3B24756}.Debug|x86.ActiveCfg = Debug|Win32
+		{47F9D138-69BB-4971-938E-3CFFA3B24756}.Debug|x86.Build.0 = Debug|Win32
+		{47F9D138-69BB-4971-938E-3CFFA3B24756}.Release|x64.ActiveCfg = Release|x64
+		{47F9D138-69BB-4971-938E-3CFFA3B24756}.Release|x64.Build.0 = Release|x64
+		{47F9D138-69BB-4971-938E-3CFFA3B24756}.Release|x86.ActiveCfg = Release|Win32
+		{47F9D138-69BB-4971-938E-3CFFA3B24756}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
